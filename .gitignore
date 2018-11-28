@@ -13,3 +13,6 @@
 
 #不要忽略根目录下bin目录中的.java文件
 !/bin/*.java
+
+RemoteSystemsTempFiles/
+.metadata/
